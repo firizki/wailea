@@ -23,5 +23,5 @@ Simple API mock using nc (or netcat)
     ```
 4. Access from port `1080`
     ```
-    curl curl localhost:1080/healthz -v
+    curl localhost:1080/healthz -v
     ```
